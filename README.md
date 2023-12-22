@@ -7,7 +7,7 @@ Software engineer
 As a software developer, I'm deeply passionate about tackling programming challenges while applying fundamental principles such as SOLID, design patterns, and data structures. I am a perpetual learner, and my self-taught nature has instilled a relentless determination to overcome obstacles. Strong teamwork skills complement my technical abilities, fostering effective collaboration within diverse environments.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [My projects]([http://sdsa](https://pedroaportfolio.netlify.app/))
+* 🖥️  See my portfolio at [My projects]([[http://sdsa](https://pedroaportfolio.netlify.app/)](https://pedroaportfolio.netlify.app/))
 * ✉️  You can contact me at [parangos@eafit.edu.co](mailto:parangos@eafit.edu.co)
 * 🧠  I'm learning Java, Spring, SQL, NoSQL, DB, IA.
 * ⚡  My youtube channel: https://www.youtube.com/@pedroarango2360
